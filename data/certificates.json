@@ -1,0 +1,70 @@
+[
+  {
+    "id": "wihummul-gineungsa",
+    "name": "위험물기능사",
+    "level": "기능사",
+    "status": "active",
+    "summary": "위험물 분류, 지정수량, 소화방법, 관계법규를 중심으로 준비하는 기능사 필기 자격증입니다.",
+    "seoTitle": "위험물기능사 필기 공부순서와 무료 예상문제 - 퀵합격",
+    "seoDescription": "위험물기능사 필기시험을 준비하는 초보자를 위한 공부순서, 핵심 개념, 자체 제작 무료 예상문제와 모의고사입니다.",
+    "studyOrder": [
+      {
+        "title": "위험물 분류",
+        "description": "제1류부터 제6류까지 성질과 대표 품명을 구분합니다."
+      },
+      {
+        "title": "지정수량",
+        "description": "자주 출제되는 수량 기준을 표로 암기합니다."
+      },
+      {
+        "title": "소화방법",
+        "description": "물 사용 가능 여부와 금수성 물질을 함께 정리합니다."
+      },
+      {
+        "title": "관계법규",
+        "description": "암기형 문항은 짧은 반복 문제로 익힙니다."
+      }
+    ],
+    "sets": [
+      {
+        "id": "set-01",
+        "title": "위험물기능사 필기 1회",
+        "description": "기출유형 기반 자체 제작 60문제",
+        "questionCount": 60
+      },
+      {
+        "id": "set-02",
+        "title": "위험물기능사 필기 2회",
+        "description": "기출유형 기반 자체 제작 60문제",
+        "questionCount": 60
+      },
+      {
+        "id": "random",
+        "title": "랜덤 모의고사",
+        "description": "섞어서 푸는 60문제",
+        "questionCount": 60
+      }
+    ]
+  },
+  {
+    "id": "jeongi-gineungsa",
+    "name": "전기기능사",
+    "level": "기능사",
+    "status": "planned",
+    "summary": "전기이론, 전기기기, 전기설비를 중심으로 확장 예정입니다."
+  },
+  {
+    "id": "jigecha-unjeon-gineungsa",
+    "name": "지게차운전기능사",
+    "level": "기능사",
+    "status": "planned",
+    "summary": "운전 이론과 안전 기준 중심으로 확장 예정입니다."
+  },
+  {
+    "id": "gulchaggi-unjeon-gineungsa",
+    "name": "굴착기운전기능사",
+    "level": "기능사",
+    "status": "planned",
+    "summary": "장비 조작, 안전, 작업 기준 중심으로 확장 예정입니다."
+  }
+]
