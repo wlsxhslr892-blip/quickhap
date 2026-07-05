@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>퀵합격 - 자격증 CBT 문제풀이</title>
+    <meta name="description" content="퀵합격에서 기능사, 산업기사, 기사 자격증 CBT 문제풀이를 빠르게 시작하세요.">
+    <link rel="stylesheet" href="./assets/styles.css">
+    <script src="./assets/ads.js" defer></script>
+    <script src="./assets/home.js" defer></script>
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="brand" href="./index.html">퀵합격</a>
+      <nav class="top-nav" aria-label="주요 메뉴">
+        <a href="./certifications.html">자격증</a>
+        <a href="./wrong-note.html">오답노트</a>
+        <a href="./favorites.html">즐겨찾기</a>
+      </nav>
+    </header>
+
+    <main class="cbt-home">
+      <section class="search-panel">
+        <h1>자격증 CBT 문제풀이</h1>
+        <form class="search-box" id="homeSearchForm">
+          <input id="homeSearchInput" type="search" placeholder="예) 위험물기능사, 전기기능사" autocomplete="off">
+          <button class="button primary" type="submit">검색</button>
+        </form>
+      </section>
+
+      <section class="ad-wide" aria-label="상단 광고">
+        <span>상단 광고 영역</span>
+      </section>
+
+      <section class="list-section">
+        <div class="simple-tabs" aria-label="자격증 분류">
+          <button class="tab-button active" type="button">기능사</button>
+          <button class="tab-button" type="button">산업기사</button>
+          <button class="tab-button" type="button">기사</button>
+          <button class="tab-button" type="button">기타</button>
+        </div>
+        <div id="homeCertificateList" class="link-list"></div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <p>QuickPass</p>
+    </footer>
+  </body>
+</html>
